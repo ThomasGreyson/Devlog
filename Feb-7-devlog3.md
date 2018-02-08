@@ -2,7 +2,7 @@
 
 So after being brought back down to earth on my guerilla tactics (cruel to be kind, eh Shawn?), I decided to re-think my priorities concerning the project. What was an interesting story around Ottawa that would appeal both to me AND to the public, rather than just stirring the pot simply to move the spoon?
 
-After weighing my options, I turned to the fascinating images I was working with every day at the National Capital Commission (yes, Jen and I are comrades in arms). While the types of photos I'm working with might be known already to the everyday Ottawa historian (for example the building of the War Memorial, the destruction og Russell Block, and countless sections of expropriated land in the downyoen core), these were largely unknown to me.
+After weighing my options, I turned to the fascinating images I was working with every day at the National Capital Commission (yes, Jen and I are comrades in arms). While the types of photos I'm working with might be known already to the everyday Ottawa historian (for example the building of the War Memorial, the destruction of Russell Block, and countless sections of expropriated land in the downyoen core), these were largely unknown to me.
 
 Sometimes a narrative does not need to be intentionally hidden to be insightful and enlightening; occasionally history simply needs a push to the surface of society, its own form of guerilla discourse by reminding a community of its own history. Rather than the brightly-painted, glorified version of history offered by the parliamentary lightshow, I'd like to show real, honest, re-creations of the past, in its classic black and white.
 
