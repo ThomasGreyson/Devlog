@@ -1,4 +1,4 @@
-#Take Back the Light (Projection)
+# Take Back the Light (Projection)
 
 So after being brought back down to earth on my guerilla tactics (cruel to be kind, eh Shawn?), I decided to re-think my priorities concerning the project. What was an interesting story around Ottawa that would appeal both to me AND to the public, rather than just stirring the pot simply to move the spoon?
 
