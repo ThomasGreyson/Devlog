@@ -1,0 +1,7 @@
+# Digital History is Like a box of Chocolates.....
+
+You never know what you're gonna get. A thousand glitches, errors and hitches can pop up on a single project throughout the numerous stages of development. Even when you take potential setbacks out of the equation and focus solely on the potential routes to execute such a project the options can be intimidating.
+
+For example, Aurasma (HP reveal in app terms) poses the common problem we discussed concerning audience reach. The phone app has had over 1 million downloads, but that number might not mean much in terms of downloaders in Ottawa specifically. However, by sharing a photograph of my trigger online anyone can view my work at any time; so long as they download the app of course. 
+
+I've also been thinking about which angle to take for my story/which would be the most accessible. I could do an educational spiel on a)chocolate manufacture, b)candymaking in Canada, or c)a corporate history using a particular box. I'm also wondering about the copyright of using a box image (does it matter if it is my own or from a stock website?) or even if I make a 3D model using a corporate box. I have the vision in my head of how I want this to run but not necessarily sure about the logistics of it just yet, certainly something to go over in class! I'm looking forward to expanding my project into the digital because it not only keeps me focused on my MRE subject, but I learn new skills outside the realm of my MRE at the same time.
