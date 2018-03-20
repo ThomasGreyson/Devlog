@@ -1,0 +1,9 @@
+# The One Where Denise Has a Full Week
+
+Sorry for the delay in the regularly scheduled programming. The mother project to my Aurasma work, the chocolate box MRE, needed tending to, but along the way it did raise some interesting questions regarding the Digital Humanities versus 'traditional' methods of exploring history.
+
+After my MRE is finished and wrapped up all nice and pretty in a sleek red hardcover, I have to wonder how much attention it will actually receive from the public. Of course, MA students' work has gained far more foot traffic in the last 20 years than ever before, thanks greatly to (what else) the wonderful internet. However, this doesn't erase the fact that academic work still stays very much with academics; so is technology the solution to access we've been looking for, or another way to cut audeiences down to a small niche demographic who knows how to operate the platform of choice?
+
+Working through the technology of this project, I have to ask how relevant it really is when augmented reality on an application scale is still small in comparison to other technologies. On the other hand, I know that household computer demographics started out the same way at first- and phones, and cars, and other rdevolutionary technology. 
+
+While these thoughts are pretty basic (and not quite working directly as field notes for my project), I have stated many times in class that technology and I have a tense relationship which I am still trying to figure out. I think rather than fully comprehending any 1 individual technology, I believe that the skills I am developing are to accept that change is constant, learn to more easily adapt to its updates and improvements, and finally to see the needs that could be filled and take full advantage. While a chocolate box may seem for some a pretty weak test subject, I am testing the waters of art combined with technology, and learning to make it work for me and those I wish to share with. 
