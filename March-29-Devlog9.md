@@ -1,0 +1,9 @@
+# Sonnet #62: Ode to Failure
+
+We've reached this point in the semester my audience: laundry gets neglected, early-morning cereal boxes are put in the fridge out of grogginess, and partners get annoyed that we are late to bed and early to rise, all because the end of the school year looms towards us at an alarming rate. This class even more so feels the strain due to strike and MRE work, but I'm glad that I've had the past week to devote solely to the identification of bugs and breakthroughs in my project.
+
+Well for starters, I am proud to say I have successfully produced a happy, bouncing, baby aura. Several in fact! Its texts, colors, and images show up quite clearly over their triggers and seem to be easily accessed by a viewing public. I have even managed to set up an aura with two overlays on a single trigger, one image and one video.
+
+However, there have also been some setbacks I have gotten frustrated with; a trigger image's tracking ability changing drastically based on light, the limited range of auras I could get with a single chocolate box (forcing me to use multiple but which overall isn't a terrible idea), and the sheer amount of attempts I have made to get a voice clip overlay working on a single aura (that is definitely a problem for you Shawn!)
+
+Overall, I really can't beat myself up about these so-called "failures". I know more about augmented reality platforms today than I did yesterday. I have showed friends my work and have been extremely impressed, not knowing that this technology even existed, much less that they could easily be capable of doing it themselves. I think I'd like to try to at least make the project more aesthetically-pleasing in general before I start tackling how my work gets involved with deeper themes and issues (audience, accessibility, content, perspectives, platforms, mediums, etc.) but can definitely see how I'll have a bit more to talk about in the final presentation.
